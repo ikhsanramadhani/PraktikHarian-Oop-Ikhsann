@@ -9,7 +9,7 @@ public class TransaksiMinimarketModern extends JFrame {
     JTextArea areaStruk;
 
     public TransaksiMinimarketModern() {
-        setTitle("Transaksi Minimarket Modern");
+        setTitle("Transaksi Minimarket Toko Ikhsan");
         setSize(520, 620);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
